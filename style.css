@@ -1,0 +1,43 @@
+
+
+body{
+	background-color: black;
+	color: white;
+
+}
+code{
+	background-color: white;
+	color: black;
+	border-radius: 5px;
+	margin: 5px;
+	padding: 2px;
+	
+}
+li{
+	margin: 8px;
+}
+p{
+	margin-top:4px;
+}
+.container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.container{
+	margin: 10px 10px;
+}
+.main{
+	font-size: 16px;
+
+}
+
+.foot{
+	font-size: 12px;
+}
+.special-elite-regular {
+	font-family: "Special Elite", system-ui;
+	font-weight: 400;
+	font-style: normal;
+}
+
