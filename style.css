@@ -39,7 +39,11 @@ p{
 }
 a, a:link, a:visited {
 	text-decoration: none !important;
-	color: white !important;
+	color: black !important;
+	background-color: white;
+	border-radius: 5px;
+	margin: 5px;
+	padding: 5px;
 }
 
 .foot{
