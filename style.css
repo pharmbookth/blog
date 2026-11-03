@@ -37,9 +37,9 @@ p{
 	justify-content:space-between;
 	
 }
-a{
+a {
 	text-decoration: none;
-	color: white;
+	color: inherit;
 }
 
 .foot{
