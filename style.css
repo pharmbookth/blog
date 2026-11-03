@@ -37,15 +37,11 @@ p{
 	justify-content:space-between;
 	
 }
-.page.prev a{
+a{
 	text-decoration: none;
 	color: white;
 }
 
-.page.next a{
-	text-decoration: none;
-	color: white;
-}
 .foot{
 	font-size: 12px;
 }
