@@ -31,7 +31,18 @@ p{
 	font-size: 16px;
 
 }
-
+.page {
+	display: flex;
+	flex-direction: row;
+	justify-content:space-between;
+	text-decoration: none;
+}
+.page.prev {
+/*	text-align: left;*/
+}
+.page.next{
+	/*text-align: right;*/
+}
 .foot{
 	font-size: 12px;
 }
